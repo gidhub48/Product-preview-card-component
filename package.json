@@ -1,5 +1,5 @@
 {
-  "homepage" : "https://gidhub48.github.io/Product-preview-card-component",
+  "homepage": "https://gidhub48.github.io/Product-preview-card-component",
   "name": "product-preview-card-react",
   "version": "0.1.0",
   "private": true,
@@ -38,6 +38,7 @@
     ]
   },
   "devDependencies": {
+    "file-loader": "^6.2.0",
     "gh-pages": "^4.0.0"
   }
 }

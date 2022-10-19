@@ -30,7 +30,7 @@
     color: var(--DarkCyan);
 }
 .CardProduct > h1{
-    padding: 1rem 0 0;
+    padding: 1rem 1rem 0 0;
     color: var(--VeryDarkBlue);
 }
 .CardProduct-price > h5{
@@ -49,6 +49,7 @@
 
 img.icon{
     width: 1rem;
+    margin-right: .5rem;
     display: inline-block;
 }
 
